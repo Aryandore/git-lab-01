@@ -1,3 +1,1 @@
-#My First Git Project
-## About
-THis project is a Git practice lab.
+#Git Lab Project(Main Branch Version)
